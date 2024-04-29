@@ -10,4 +10,4 @@ In this section, we will have some **bold text**.
 
 In this section, we will have some *italicized* text. 
 
-I will also bold this to make it stand out: *ee https://www.markdownguide.org/cheat-sheet/ for more markdown tips and tricks!*
+I will also bold this to make it stand out: **see https://www.markdownguide.org/cheat-sheet/ for more markdown tips and tricks!**
